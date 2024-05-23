@@ -1,6 +1,9 @@
 # uOttawa Climate Compass Project
 
 ## Quick links
+### Figma
+[https://www.figma.com/design/Cw1nWILDqGGZmieiZLTZXa/NICC---Hi-Fi-Wireframe?node-id=4517%3A15465&t=Sh0dqqg7oFgi4Key-1](https://www.figma.com/design/Cw1nWILDqGGZmieiZLTZXa/NICC---Hi-Fi-Wireframe?node-id=4517%3A15465&t=Sh0dqqg7oFgi4Key-1)
+
 ### Discussions
 [https://github.com/orgs/uoClimateCompass/discussions](https://github.com/orgs/uoClimateCompass/discussions)
 
