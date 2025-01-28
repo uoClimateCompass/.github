@@ -10,10 +10,15 @@
 ### Discussions
 [https://github.com/orgs/uoClimateCompass/discussions](https://github.com/orgs/uoClimateCompass/discussions)
 
-### Task tracker
-[https://github.com/orgs/uoClimateCompass/projects/2](https://github.com/orgs/uoClimateCompass/projects/2)
+### Tasks
+
+| Team | Repo | 
+| -------- | ------- | 
+| ELG Group | [Board](https://github.com/orgs/uoClimateCompass/projects/4) | 
+| WSP | [Board](https://github.com/orgs/uoClimateCompass/projects/3) | 
+
 
 ### Projects
 | Description | Repo | 
 | -------- | ------- | 
-| Prototype | [Code](https://github.com/uoClimateCompass/Data-Migration) | 
+| Prototype Monorepo | [Code](https://github.com/uoClimateCompass/Data-Migration) | 
