@@ -16,6 +16,4 @@
 ### Projects
 | Description | Repo | 
 | -------- | ------- | 
-| Data migration | [Code](https://github.com/uoClimateCompass/Data-Migration) | 
-| Back-end services | [Code](https://github.com/uoClimateCompass/Backend-Services) | 
-| Frontend | [Code](https://github.com/uoClimateCompass/Frontend)| 
+| Prototype | [Code](https://github.com/uoClimateCompass/Data-Migration) | 
